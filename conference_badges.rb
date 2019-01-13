@@ -14,6 +14,8 @@ def assign_rooms(array)
 
 
 
-def printer
+def printer(array)
+  array.each do 
+    puts "#{array}"
 end
 
