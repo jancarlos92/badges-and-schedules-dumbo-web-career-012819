@@ -18,4 +18,5 @@ def printer(array)
   array.each do 
     puts "#{array}"
 end
+end
 
